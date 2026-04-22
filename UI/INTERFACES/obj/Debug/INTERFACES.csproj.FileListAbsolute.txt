@@ -1,0 +1,18 @@
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\bin\Debug\INTERFACES.dll
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\bin\Debug\INTERFACES.pdb
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\bin\Debug\BE.dll
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\bin\Debug\BE.pdb
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.csproj.AssemblyReference.cache
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.csproj.CoreCompileInputs.cache
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.csproj.Up2Date
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.dll
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.pdb
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\bin\Debug\INTERFACES.dll
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\bin\Debug\INTERFACES.pdb
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\bin\Debug\BE.dll
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\bin\Debug\BE.pdb
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.csproj.AssemblyReference.cache
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.csproj.CoreCompileInputs.cache
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.csproj.Up2Date
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.dll
+C:\Users\1992f\Documents\Matty\UAI\IS\ProyectoMF\Diploma ultima entrega v10 con trans\Diploma ultima entrega\UI\INTERFACES\obj\Debug\INTERFACES.pdb
