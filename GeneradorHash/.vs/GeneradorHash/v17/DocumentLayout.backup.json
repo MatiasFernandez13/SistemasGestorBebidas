@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1992f\\Documents\\Matty\\UAI\\IS\\ProyectoMF\\Diploma ultima entrega\\GeneradorHash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2F8778-2A5E-4CB3-9AD5-78AC36A09EC9}|GeneradorHash\\GeneradorHash.csproj|c:\\users\\1992f\\documents\\matty\\uai\\is\\proyectomf\\diploma ultima entrega\\generadorhash\\generadorhash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2F8778-2A5E-4CB3-9AD5-78AC36A09EC9}|GeneradorHash\\GeneradorHash.csproj|solutionrelative:generadorhash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1992f\\Documents\\Matty\\UAI\\IS\\ProyectoMF\\Diploma ultima entrega\\GeneradorHash\\GeneradorHash\\Program.cs",
+              "RelativeDocumentMoniker": "GeneradorHash\\Program.cs",
+              "ToolTip": "C:\\Users\\1992f\\Documents\\Matty\\UAI\\IS\\ProyectoMF\\Diploma ultima entrega\\GeneradorHash\\GeneradorHash\\Program.cs",
+              "RelativeToolTip": "GeneradorHash\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:53:18.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
